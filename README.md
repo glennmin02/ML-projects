@@ -1,0 +1,1 @@
+Desktop weather app built with PyQt5 that fetches real-time weather data from OpenWeatherMap API. Features clean GUI with temperature in Celsius, dynamic weather emojis (☀️🌧️❄️⛈️), custom CSS styling, and comprehensive error handling for API requests, connection issues, and invalid inputs.
