@@ -1,0 +1,13 @@
+CustomerID,Name,Country,Region,Age
+C123,John Doe,USA,North America,28
+C345,Maria Garcia,Mexico,North America,31
+C456,Jane Han,South Korea,Asia,34
+C789,Alice Johnson,UK,Europe,45
+C101,Bob Brown,Australia,Oceania,23
+C112,Charlie Davis,Germany,Europe,37
+C131,James Kwan,Thailand,Asia,29
+C415,Frank White,USA,North America,52
+C161,Grace Black,Canada,North America,41
+C718,Lisa Liu,Taiwan,Asia,36
+C192,Irene Yellow,UK,Europe,33
+C202,Kevin Ng,Singapore,Asia,27
